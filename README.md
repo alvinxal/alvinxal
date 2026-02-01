@@ -21,7 +21,8 @@
 
 ###
 
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi, I'm Alvin 👋</h1>
+<p align="center"><b>Software Engineer | Business Process Automation | Ex-Finance Lead</b></p>
 
 ###
 
@@ -29,7 +30,14 @@
 
 ###
 
-<p align="left">I'm Alvin from Indonesia<br><br>-  I'm currently last year Computer Science at the Open University<br>- I'm currently learning web development and keeping up with the tech world<br>- Check out my portfolio at <a href="https://alvinxal.my.id">alvinxal.my.id</a><br>- Feel free to hit me up!</p>
+<p align="left">
+I bridge the gap between complex business logic and scalable technology. I don't just write code; I build systems that solve real operational bottlenecks.
+<br><br>
+- ⚡ <b>Impact:</b> Slashed reporting latency by <b>99%</b> (3 days to <1 minute) at LEORA Construction. <br/>
+- 💰 <b>Business-First:</b> Managed <b>IDR 1.8B+ annual</b> operational budgets, bringing a sharp ROI-focused perspective to development. <br/>
+- 🎓 <b>Education:</b> Final year Computer Science student at Universitas Terbuka. <br/>
+- 🛠️ <b>Focus:</b> Architecting ERP systems and high-performance web experiences using <b>Next.js, Supabase, and GSAP</b>.
+</p>
 
 ###
 
@@ -42,19 +50,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
@@ -70,5 +74,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alvinxal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
